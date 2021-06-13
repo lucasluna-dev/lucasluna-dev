@@ -10,6 +10,7 @@
 - 👨‍💻 Programador Jr em formação na danki code -> <a href="https://cursos.dankicode.com/certificados?id=127110">Informações do aluno</a>
 - 🌱 Estudante de Administração.
 - 💙 Interesse: PHP, javaScript, html, css,  MySql.
+- Portifólio: <a href="https:/lucasdeluna.com.br">Meu Site</a>
 ##
  
 ## Skills 
